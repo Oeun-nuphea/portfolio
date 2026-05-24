@@ -31,9 +31,13 @@ export default function Team() {
             <span className="absolute top-7 right-7 text-[11px] font-medium text-slate-200 tabular-nums">
               {String(i + 1).padStart(2, "0")}
             </span>
-            <div className={`w-16 h-16 rounded-full bg-gradient-to-br ${m.color} flex items-center justify-center text-white font-dm-serif text-xl mb-7 shrink-0`}>
-              {m.initials}
-            </div>
+            {m.image ? (
+              <img src={m.image} alt={m.name} className="w-16 h-16 rounded-full object-cover mb-7 shrink-0 shadow-sm ring-2 ring-slate-100" />
+            ) : (
+              <div className={`w-16 h-16 rounded-full bg-gradient-to-br ${m.color} flex items-center justify-center text-white font-dm-serif text-xl mb-7 shrink-0`}>
+                {m.initials}
+              </div>
+            )}
             <div className="font-dm-serif text-[22px] text-slate-900 leading-tight mb-1.5">{m.name}</div>
             <div className="text-[11px] font-medium tracking-[0.18em] uppercase text-cyan-800 mb-4">{m.role}</div>
             <div className="w-6 h-px bg-slate-200 group-hover:w-10 group-hover:bg-cyan-400 transition-all duration-300 mb-4" />

@@ -54,14 +54,14 @@
       "category": "FinTech",
       "title": "Nexus E-commerce App",
       "description": "A comprehensive mobile banking experience with real-time crypto trading and AI-driven insights.",
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
       "overlayColor": "bg-blue-900/10"
     },
     {
       "category": "Healthcare",
       "title": "Aura Wellness Platform",
       "description": "Telehealth platform connecting patients with specialized therapists through secure video and chat.",
-      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=2000",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
       "overlayColor": "bg-cyan-900/10",
       "offset": true
     },
@@ -69,24 +69,24 @@
       "category": "Logistics",
       "title": "CargoTrack Dashboard",
       "description": "Real-time global fleet tracking and analytics dashboard for enterprise supply chain management.",
-      "image": "https://images.unsplash.com/photo-1586528116311-ad8ed7c663e0?auto=format&fit=crop&q=80&w=2000",
+      "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&q=80&w=800",
       "overlayColor": "bg-emerald-900/10"
     },
     {
       "category": "Web3",
       "title": "Nova Blockchain Explorer",
       "description": "High-performance block explorer and analytics engine processing millions of transactions per second.",
-      "image": "https://images.unsplash.com/photo-1639762681485-074b7f4ec651?auto=format&fit=crop&q=80&w=2000",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=800",
       "overlayColor": "bg-indigo-900/10",
       "offset": true
     }
   ],
   "team": [
-    { "name": "Kert Damon", "role": "Lead Architect", "bio": "Obsessed with clean code and distributed systems. Brews his own coffee.", "initials": "KD", "color": "from-blue-600 to-cyan-400" },
-    { "name": "Khun Kimhab", "role": "Fullstack & AI/ML Specialist", "bio": "Full-stack developer with expertise in Python, Node.js, React, and Next.js.", "initials": "KK", "color": "from-indigo-600 to-blue-400" },
-    { "name": "Chea Ising", "role": "Fullstack Engineer", "bio": "Full-stack developer with expertise in Node.js, React, and Next.js.", "initials": "CI", "color": "from-sky-600 to-cyan-300" },
-    { "name": "Menghour", "role": "UI/UX Designer", "bio": "Designer with expertise in Figma, Photoshop, and Illustrator.", "initials": "MH", "color": "from-blue-700 to-sky-400" },
-    { "name": "Oeun Nuphea", "role": "Fullstack Engineer", "bio": "Fullstack developer with expertise in Node.js, React, and Next.js.", "initials": "ON", "color": "from-cyan-600 to-teal-300" }
+    { "name": "Kert Damon", "role": "Lead Architect", "bio": "Obsessed with clean code and distributed systems. Brews his own coffee.", "initials": "KD", "color": "from-blue-600 to-cyan-400", "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Khun Kimhab", "role": "Fullstack & AI/ML Specialist", "bio": "Full-stack developer with expertise in Python, Node.js, React, and Next.js.", "initials": "KK", "color": "from-indigo-600 to-blue-400", "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Chea Ising", "role": "Fullstack Engineer", "bio": "Full-stack developer with expertise in Node.js, React, and Next.js.", "initials": "CI", "color": "from-sky-600 to-cyan-300", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Menghour", "role": "UI/UX Designer", "bio": "Designer with expertise in Figma, Photoshop, and Illustrator.", "initials": "MH", "color": "from-blue-700 to-sky-400", "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Oeun Nuphea", "role": "Fullstack Engineer", "bio": "Fullstack developer with expertise in Node.js, React, and Next.js.", "initials": "ON", "color": "from-cyan-600 to-teal-300", "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200" }
   ],
   "faqs": [
     {
