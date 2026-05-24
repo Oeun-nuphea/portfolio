@@ -82,11 +82,11 @@
     }
   ],
   "team": [
-    { "name": "Kert Damon", "role": "Lead Architect", "bio": "Obsessed with clean code and distributed systems. Brews his own coffee.", "initials": "KD", "color": "from-blue-600 to-cyan-400", "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200" },
-    { "name": "Khun Kimhab", "role": "Fullstack & AI/ML Specialist", "bio": "Full-stack developer with expertise in Python, Node.js, React, and Next.js.", "initials": "KK", "color": "from-indigo-600 to-blue-400", "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=200" },
-    { "name": "Chea Ising", "role": "Fullstack Engineer", "bio": "Full-stack developer with expertise in Node.js, React, and Next.js.", "initials": "CI", "color": "from-sky-600 to-cyan-300", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200" },
-    { "name": "Menghour", "role": "UI/UX Designer", "bio": "Designer with expertise in Figma, Photoshop, and Illustrator.", "initials": "MH", "color": "from-blue-700 to-sky-400", "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200" },
-    { "name": "Oeun Nuphea", "role": "Fullstack Engineer", "bio": "Fullstack developer with expertise in Node.js, React, and Next.js.", "initials": "ON", "color": "from-cyan-600 to-teal-300", "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200" }
+    { "name": "Kert Damon", "role": "Leader & Architecture Engineer", "bio": "Leading the team to deliver the best quality of work, and also expert in fullstack and devops.", "initials": "KD", "color": "from-blue-600 to-cyan-400", "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Khun Kimhab", "role": "Fullstack & AI/ML & DevOp Specialist", "bio": "Full-stack developer with expertise in Python, Node.js, React, and Next.js Docker, CI/CD, Aws, Kubernete.", "initials": "KK", "color": "from-indigo-600 to-blue-400", "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Chea Ising", "role": "Fullstack Engineer", "bio": "Full-stack developer with expertise in Node.js, React, and Next.js, Flutter.", "initials": "CI", "color": "from-sky-600 to-cyan-300", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Khorn Menghour", "role": "Frontend Engineer", "bio": "Frontend developer with expertise in React, and Next.js, Flutter", "initials": "MH", "color": "from-blue-700 to-sky-400", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200" },
+    { "name": "Oeun Nuphea", "role": "Backend Engineer", "bio": "Backend developer with expertise in Node.js, and Flutter.", "initials": "ON", "color": "from-cyan-600 to-teal-300", "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200" }
   ],
   "faqs": [
     {
