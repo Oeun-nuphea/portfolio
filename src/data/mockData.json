@@ -51,16 +51,16 @@
   ],
   "portfolio": [
     {
-      "category": "FinTech",
-      "title": "Nexus E-commerce App",
-      "description": "A comprehensive mobile banking experience with real-time crypto trading and AI-driven insights.",
+      "category": "Law Lecturer & Legal Consultant",
+      "title": "Professional Profile & Legal Platform",
+      "description": "A modern platform for a law lecturer and legal consultant featuring professional profile management, legal blogs and activities, book selling and free legal resources, consultation chat system, and a complete admin dashboard for managing content, publications, and client interactions.",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
       "overlayColor": "bg-blue-900/10"
     },
     {
-      "category": "Healthcare",
-      "title": "Aura Wellness Platform",
-      "description": "Telehealth platform connecting patients with specialized therapists through secure video and chat.",
+      "category": "Education",
+      "title": "School Management Platform",
+      "description": "Comprehensive school management system and institutional website for managing students, classes, lecturers, enrollment, finance, news, academic programs, and communication through a modern centralized platform.",
       "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
       "overlayColor": "bg-cyan-900/10",
       "offset": true
