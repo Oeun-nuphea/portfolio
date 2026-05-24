@@ -109,12 +109,14 @@
     { "num": "04", "title": "Launch", "desc": "We handle deployment, performance optimization, and provide ongoing support." }
   ],
   "clients": [
-    "Nexus Tech",
-    "Aura Health",
-    "Vertex Finance",
-    "Lumina AI",
-    "Strata E-Com",
-    "Nova Blockchain"
+    { "name": "Vercel", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" },
+    { "name": "Stripe", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stripe.svg" },
+    { "name": "Linear", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linear.svg" },
+    { "name": "OpenAI", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" },
+    { "name": "Figma", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" },
+    { "name": "GitHub", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" },
+    { "name": "Supabase", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg" },
+    { "name": "Notion", "image": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notion.svg" }
   ],
   "services": [
     {
