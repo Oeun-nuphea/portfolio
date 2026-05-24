@@ -60,25 +60,24 @@ export default function Team() {
         {/* Lines connecting the Top Row to the Bottom Row */}
         <div className="relative w-full h-16 hidden md:block">
            {/* Card 01 drops down to the horizontal line */}
-           {/* Card 01 is 96px higher than Card 02, so it drops an extra 96px = 128px */}
-           <div className="absolute bottom-1/2 left-[33.33%] w-px h-[128px] bg-slate-300 -translate-x-[0.5px]" />
+           <div className="absolute bottom-1/2 left-1/3 w-px h-[150px] bg-slate-300 -translate-x-1/2" />
            
            {/* Card 02 drops down to the horizontal line */}
-           <div className="absolute bottom-1/2 left-[66.66%] w-px h-[32px] bg-slate-300 -translate-x-[0.5px]" />
+           <div className="absolute bottom-1/2 left-2/3 w-px h-[32px] bg-slate-300 -translate-x-1/2" />
            
            {/* Horizontal connection bridging Card 01 and Card 02 drop lines */}
-           <div className="absolute bottom-1/2 left-[33.33%] right-[33.33%] h-px bg-slate-300" />
+           <div className="absolute bottom-1/2 left-1/3 right-1/3 h-px bg-slate-300" />
 
            {/* Main trunk dropping down to the bottom row */}
-           <div className="absolute top-1/2 left-[50%] w-px h-1/2 bg-slate-300 -translate-x-[0.5px]" />
+           <div className="absolute top-1/2 left-1/2 w-px h-1/2 bg-slate-300 -translate-x-1/2" />
         </div>
 
         {/* Tree Connection Lines (Desktop - 3 items) */}
         <div className="relative w-full h-10 hidden md:block">
-          <div className="absolute top-0 left-[16.66%] right-[16.66%] h-px bg-slate-300" />
-          <div className="absolute top-0 left-[16.66%] w-px h-full bg-slate-300 -translate-x-[0.5px]" />
-          <div className="absolute top-0 left-[50%] w-px h-full bg-slate-300 -translate-x-[0.5px]" />
-          <div className="absolute top-0 left-[83.33%] w-px h-full bg-slate-300 -translate-x-[0.5px]" />
+          <div className="absolute top-0 left-1/6 right-1/6 h-px bg-slate-300" />
+          <div className="absolute top-0 left-1/6 w-px h-full bg-slate-300 -translate-x-1/2" />
+          <div className="absolute top-0 left-1/2 w-px h-full bg-slate-300 -translate-x-1/2" />
+          <div className="absolute top-0 left-5/6 w-px h-full bg-slate-300 -translate-x-1/2" />
         </div>
         
         {/* Gap for mobile/tablet instead of tree lines */}
