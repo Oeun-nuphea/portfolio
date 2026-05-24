@@ -1,10 +1,7 @@
+import data from "@/data/mockData.json";
+
 export default function Process() {
-  const steps = [
-    { num: "01", title: "Discovery", desc: "We deep-dive into your business goals, target audience, and technical requirements." },
-    { num: "02", title: "Strategy", desc: "We map out user flows, architect the database, and create high-fidelity prototypes." },
-    { num: "03", title: "Execution", desc: "Our engineers build the platform using modern, scalable technologies." },
-    { num: "04", title: "Launch", desc: "We handle deployment, performance optimization, and provide ongoing support." }
-  ];
+  const steps = data.process;
 
   return (
     <section className="py-24 px-10 max-w-[1280px] mx-auto font-poppins">

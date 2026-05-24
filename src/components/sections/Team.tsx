@@ -1,16 +1,10 @@
 "use client";
 
-import { useEffect, useRef } from "react";
-
-const members = [
-  { name: "Kert Damon", role: "Lead Architect", bio: "Obsessed with clean code and distributed systems. Brews his own coffee.", initials: "KD", color: "from-blue-600 to-cyan-400" },
-  { name: "Khun Kimhab", role: "Fullstack & AI/ML Specialist", bio: "Full-stack developer with expertise in Python, Node.js, React, and Next.js.", initials: "KK", color: "from-indigo-600 to-blue-400" },
-  { name: "Chea Ising", role: "Fullstack Engineer", bio: "Full-stack developer with expertise in Node.js, React, and Next.js.", initials: "CI", color: "from-sky-600 to-cyan-300" },
-  { name: "Menghour", role: "UI/UX Designer", bio: "Designer with expertise in Figma, Photoshop, and Illustrator.", initials: "MH", color: "from-blue-700 to-sky-400" },
-  { name: "Oeun Nuphea", role: "FullsEtack ngineer", bio: "Fullstack developer with expertise in Node.js, React, and Next.js.", initials: "ON", color: "from-cyan-600 to-teal-300" },
-];
+import data from "@/data/mockData.json";
 
 export default function Team() {
+  const members = data.team;
+
   return (
     <section className="py-20 px-10 max-w-[1280px] mx-auto font-poppins">
       <div className="flex items-end justify-between mb-16 gap-6 flex-wrap">

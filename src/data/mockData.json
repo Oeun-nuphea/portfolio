@@ -80,5 +80,71 @@
       "overlayColor": "bg-indigo-900/10",
       "offset": true
     }
+  ],
+  "team": [
+    { "name": "Kert Damon", "role": "Lead Architect", "bio": "Obsessed with clean code and distributed systems. Brews his own coffee.", "initials": "KD", "color": "from-blue-600 to-cyan-400" },
+    { "name": "Khun Kimhab", "role": "Fullstack & AI/ML Specialist", "bio": "Full-stack developer with expertise in Python, Node.js, React, and Next.js.", "initials": "KK", "color": "from-indigo-600 to-blue-400" },
+    { "name": "Chea Ising", "role": "Fullstack Engineer", "bio": "Full-stack developer with expertise in Node.js, React, and Next.js.", "initials": "CI", "color": "from-sky-600 to-cyan-300" },
+    { "name": "Menghour", "role": "UI/UX Designer", "bio": "Designer with expertise in Figma, Photoshop, and Illustrator.", "initials": "MH", "color": "from-blue-700 to-sky-400" },
+    { "name": "Oeun Nuphea", "role": "Fullstack Engineer", "bio": "Fullstack developer with expertise in Node.js, React, and Next.js.", "initials": "ON", "color": "from-cyan-600 to-teal-300" }
+  ],
+  "faqs": [
+    {
+      "question": "How do you handle communication?",
+      "answer": "We set up a dedicated Slack channel for real-time chat and provide weekly video syncs to review progress."
+    },
+    {
+      "question": "What is your time zone?",
+      "answer": "We are primarily based in EST and PST, but we accommodate client meetings across most global time zones."
+    },
+    {
+      "question": "How are revisions handled?",
+      "answer": "We include up to 2 rounds of major revisions during the Strategy phase and minor tweaks throughout Execution to ensure you love the final product."
+    }
+  ],
+  "process": [
+    { "num": "01", "title": "Discovery", "desc": "We deep-dive into your business goals, target audience, and technical requirements." },
+    { "num": "02", "title": "Strategy", "desc": "We map out user flows, architect the database, and create high-fidelity prototypes." },
+    { "num": "03", "title": "Execution", "desc": "Our engineers build the platform using modern, scalable technologies." },
+    { "num": "04", "title": "Launch", "desc": "We handle deployment, performance optimization, and provide ongoing support." }
+  ],
+  "clients": [
+    "Nexus Tech",
+    "Aura Health",
+    "Vertex Finance",
+    "Lumina AI",
+    "Strata E-Com",
+    "Nova Blockchain"
+  ],
+  "services": [
+    {
+      "tier": "Launch",
+      "title": "The MVP",
+      "price": "From $999",
+      "description": "Perfect for startups needing to validate an idea quickly. A functional, polished V1 delivered in 4-6 weeks.",
+      "features": ["UI/UX Design for core flows", "Frontend (React/Next.js)", "Backend API & Database setup", "Standard Authentication"],
+      "cta": "Get Started",
+      "ctaClass": "text-slate-900 bg-slate-100 border border-slate-200 hover:bg-slate-200"
+    },
+    {
+      "tier": "Scale",
+      "badge": "Most Popular",
+      "title": "The Core",
+      "price": "From $2000+",
+      "description": "For growing companies needing a scalable, production-ready platform with custom features.",
+      "features": ["Everything in MVP", "Advanced State Management", "Complex 3rd-party Integrations", "Performance Optimization", "Admin Dashboard"],
+      "cta": "Get Started",
+      "ctaClass": "text-white bg-blue-700 shadow-md hover:-translate-y-0.5 hover:shadow-lg",
+      "topAccent": true
+    },
+    {
+      "tier": "Enterprise",
+      "title": "The Dedicated",
+      "price": "Custom",
+      "description": "Ongoing partnership. We act as your external engineering and design department on retainer.",
+      "features": ["Dedicated Team Allocation", "Custom Architecture", "Priority Support SLA", "Continuous Integration", "Weekly Strategy Syncs"],
+      "cta": "Let's Talk",
+      "ctaClass": "text-slate-900 bg-slate-100 border border-slate-200 hover:bg-slate-200"
+    }
   ]
 }

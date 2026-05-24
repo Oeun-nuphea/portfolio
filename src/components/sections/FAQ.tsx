@@ -1,23 +1,10 @@
 "use client";
 
 import { useState } from "react";
-
-const faqs = [
-  {
-    question: "How do you handle communication?",
-    answer: "We set up a dedicated Slack channel for real-time chat and provide weekly video syncs to review progress."
-  },
-  {
-    question: "What is your time zone?",
-    answer: "We are primarily based in EST and PST, but we accommodate client meetings across most global time zones."
-  },
-  {
-    question: "How are revisions handled?",
-    answer: "We include up to 2 rounds of major revisions during the Strategy phase and minor tweaks throughout Execution to ensure you love the final product."
-  }
-];
+import data from "@/data/mockData.json";
 
 export default function FAQ() {
+  const faqs = data.faqs;
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   const toggleFaq = (index: number) => {

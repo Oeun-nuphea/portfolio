@@ -1,12 +1,7 @@
+import data from "@/data/mockData.json";
+
 export default function Clients() {
-  const clients = [
-    "Nexus Tech",
-    "Aura Health",
-    "Vertex Finance",
-    "Lumina AI",
-    "Strata E-Com",
-    "Nova Blockchain",
-  ];
+  const clients = data.clients;
 
   return (
     <section className="py-12 border-b border-slate-200/50 bg-white/30 backdrop-blur-sm font-['Poppins',sans-serif]">
