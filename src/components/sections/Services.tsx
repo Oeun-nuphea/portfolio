@@ -21,7 +21,7 @@ export default function Services() {
         <div className="p-10 bg-white hover:bg-slate-50 transition-colors flex flex-col group relative">
           <div className="text-[11px] font-medium tracking-[0.18em] uppercase text-slate-400 mb-4">Launch</div>
           <h3 className="font-dm-serif text-[32px] leading-tight mb-2 text-slate-900">The MVP</h3>
-          <p className="text-xl text-blue-700 font-medium mb-6">From $15k</p>
+          <p className="text-xl text-blue-700 font-medium mb-6">From $999</p>
           <p className="text-[14px] text-slate-400 font-light leading-relaxed mb-8 flex-grow">Perfect for startups needing to validate an idea quickly. A functional, polished V1 delivered in 4-6 weeks.</p>
           <ul className="space-y-4 mb-8">
             {['UI/UX Design for core flows', 'Frontend (React/Next.js)', 'Backend API & Database setup', 'Standard Authentication'].map((item, i) => (
@@ -39,7 +39,7 @@ export default function Services() {
           <div className="absolute top-0 left-0 right-0 h-1 bg-cyan-800"></div>
           <div className="text-[11px] font-medium tracking-[0.18em] uppercase text-cyan-800 mb-4 flex items-center gap-2">Scale <span className="bg-cyan-100 text-blue-700 px-2 py-0.5 rounded-full text-[9px]">Most Popular</span></div>
           <h3 className="font-dm-serif text-[32px] leading-tight mb-2 text-slate-900">The Core</h3>
-          <p className="text-xl text-blue-700 font-medium mb-6">From $35k</p>
+          <p className="text-xl text-blue-700 font-medium mb-6">From $2000+</p>
           <p className="text-[14px] text-slate-400 font-light leading-relaxed mb-8 flex-grow">For growing companies needing a scalable, production-ready platform with custom features.</p>
           <ul className="space-y-4 mb-8">
             {['Everything in MVP', 'Advanced State Management', 'Complex 3rd-party Integrations', 'Performance Optimization', 'Admin Dashboard'].map((item, i) => (
