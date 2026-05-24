@@ -1,0 +1,84 @@
+{
+  "testimonials": [
+    {
+      "name": "Sarah Jenkins",
+      "title": "CTO at Nexus Tech",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200",
+      "quote": "The team felt like an extension of our internal staff. They communicated flawlessly and delivered our scalable MVP weeks ahead of schedule. I cannot recommend FlowStack highly enough."
+    },
+    {
+      "name": "Michael Chen",
+      "title": "Founder, Aura Health",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200",
+      "quote": "We were struggling with our platform's scalability. FlowStack stepped in, audited our AWS infrastructure, and refactored everything perfectly. Truly life-changing for our business."
+    },
+    {
+      "name": "Elena Rodriguez",
+      "title": "VP Engineering, Strata",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=200",
+      "quote": "The perfect blend of technical rigor and beautiful design. The skills I gained from working alongside this team became the foundation of our entire internal engineering culture."
+    },
+    {
+      "name": "David Kim",
+      "title": "Product Lead at Vertex",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200",
+      "quote": "Leadership and technical excellence side-by-side. I recommend them to anyone serious about building a long-term, scalable product that won't break under pressure."
+    },
+    {
+      "name": "Anita Desai",
+      "title": "CEO of Lumina AI",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+      "quote": "The depth of their React and Next.js knowledge is world-class. They stepped into our messy codebase and brought total clarity and performance optimizations within a week."
+    },
+    {
+      "name": "Marcus Webb",
+      "title": "Director of Growth, FinFlow",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=200",
+      "quote": "They don't just write code; they understand business objectives. The e-commerce platform they delivered increased our conversion rate by 34% in the first month alone."
+    },
+    {
+      "name": "Sophia Martinez",
+      "title": "Head of Product, Nova",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200",
+      "quote": "Finding developers who actually care about UX design is rare. FlowStack bridged the gap perfectly, delivering a frontend that looks as good as it performs."
+    },
+    {
+      "name": "James Wilson",
+      "title": "Founder, Elevate CRM",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=200",
+      "quote": "We threw an incredibly complex database architecture problem at them, and they solved it elegantly. Their technical architecture skills are simply unmatched."
+    }
+  ],
+  "portfolio": [
+    {
+      "category": "FinTech",
+      "title": "Nexus E-commerce App",
+      "description": "A comprehensive mobile banking experience with real-time crypto trading and AI-driven insights.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000",
+      "overlayColor": "bg-blue-900/10"
+    },
+    {
+      "category": "Healthcare",
+      "title": "Aura Wellness Platform",
+      "description": "Telehealth platform connecting patients with specialized therapists through secure video and chat.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=2000",
+      "overlayColor": "bg-cyan-900/10",
+      "offset": true
+    },
+    {
+      "category": "Logistics",
+      "title": "CargoTrack Dashboard",
+      "description": "Real-time global fleet tracking and analytics dashboard for enterprise supply chain management.",
+      "image": "https://images.unsplash.com/photo-1586528116311-ad8ed7c663e0?auto=format&fit=crop&q=80&w=2000",
+      "overlayColor": "bg-emerald-900/10"
+    },
+    {
+      "category": "Web3",
+      "title": "Nova Blockchain Explorer",
+      "description": "High-performance block explorer and analytics engine processing millions of transactions per second.",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f4ec651?auto=format&fit=crop&q=80&w=2000",
+      "overlayColor": "bg-indigo-900/10",
+      "offset": true
+    }
+  ]
+}

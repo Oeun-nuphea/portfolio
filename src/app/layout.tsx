@@ -40,7 +40,6 @@ export default function RootLayout({
         <main className="pt-28 pb-10">
           {children}
         </main>
-        <FooterCTA />
         <Footer />
       </body>
     </html>
